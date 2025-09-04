@@ -6,17 +6,17 @@
 
 ## 🚀 Project Workflow
 
-- [Introduction](#introduction)  
-- [Features](#features)  
-- [Dataset](#dataset)  
-- [Models](#models)  
-- [Installation](#installation)  
-- [Usage](#usage)  
-- [Results](#results)  
-- [Future Work](#future-work)  
-- [Team](#team)  
-- [License](#license)  
-- [Acknowledgements](#acknowledgements)  
+- [Introduction](#introduction)
+- [Features](#features)
+- [Dataset](#dataset)
+- [Models](#models)
+- [Usage](#usage)
+- [Demo](#🌐-demo)
+- [Results](#📊-results)
+- [Future Work](#🔮-future-work)
+- [Team](#👥-team)
+- [License](#📜-license)
+- [Acknowledgements](#🙏-acknowledgements)
 
 ---
 
@@ -66,13 +66,43 @@ Yoruba proverbs are rich in cultural and linguistic meaning. Automating their de
 
 ---
 
-## ⚙️ Installation
+## 🌐 Demo
 
-```bash
-git clone https://github.com/<your-username>/OWE-YOR.git
-cd OWE-YOR
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-pip install -r requirements.txt
+Try the web app live on Hugging Face Spaces:
+
+[🎯 OWE-YOR: Yoruba Proverb Classifier](https://huggingface.co/spaces/Joycenaomi81/Proverbs_)
+
+---
+
+## 📊 Results
+
+- High accuracy in classifying Yoruba proverbs vs. non-proverbs
+- Transformers outperform traditional ML in low-resource languages
+- Confusion matrix and metrics available in `results/` folder
+
+---
+
+## 🔮 Future Work
+
+- Expand to other African languages 🌍
+- Integrate into culturally-aware conversational AI systems 💬
+- Explore tone-aware models for tonal languages like Yoruba 🎵
+
+---
+
+## 👥 Team
+
+- **Olusanya Joy** – [GitHub](https://github.com/Joycenaomi81)
+- **Your Partner's Name** – [GitHub](https://github.com/partner-username)
+
+---
+
+## 📜 License
+
+MIT License. See [LICENSE](LICENSE) for details.
+
+---
+
+## Acknowledgements
 
 
