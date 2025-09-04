@@ -46,7 +46,7 @@ Yoruba proverbs are rich in cultural and linguistic meaning. Automating their de
 - **Non-proverbs:** labeled `0`  
 - Data is **cleaned and preprocessed** for optimal training.  
 
-> Dataset link: [Add your dataset link here]  
+> Dataset link: [https://huggingface.co/datasets/LingoJr/OWEYOR]  
 
 ---
 
