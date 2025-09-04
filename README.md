@@ -78,7 +78,7 @@ Try the web app live on Hugging Face Spaces:
 
 - High accuracy in classifying Yoruba proverbs vs. non-proverbs
 - Transformers outperform traditional ML in low-resource languages
-- Confusion matrix and metrics available in `results/` folder
+
 
 ---
 
