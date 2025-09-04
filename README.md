@@ -84,16 +84,16 @@ Try the web app live on Hugging Face Spaces:
 
 ## 🔮 Future Work
 
-- Expand to other African languages 🌍
-- Integrate into culturally-aware conversational AI systems 💬
-- Explore tone-aware models for tonal languages like Yoruba 🎵
+- Expand to other African languages. 
+- Integrate into culturally-aware conversational AI systems. 
+- Explore tone-aware models for tonal languages like Yoruba.
 
 ---
 
 ## 👥 Team
 
 - **Olusanya Joy** – [GitHub](https://github.com/joynaomi81)
-- **Your Partner's Name** – [GitHub](https://github.com/Holuwasege)
+- **Daud Abolade** – [GitHub](https://github.com/Holuwasege)
 
 ---
 
@@ -102,7 +102,5 @@ Try the web app live on Hugging Face Spaces:
 MIT License. See [LICENSE](LICENSE) for details.
 
 ---
-
-## Acknowledgements
 
 
