@@ -13,10 +13,10 @@
 - [Usage](#usage)
 - [Demo](#🌐-demo)
 - [Results](#📊-results)
+- [Poster](#Poster)
 - [Future Work](#🔮-future-work)
 - [Team](#👥-team)
-- [License](#📜-license)
-- [Acknowledgements](#🙏-acknowledgements)
+  
 
 ---
 
@@ -82,6 +82,11 @@ Try the web app live on Hugging Face Spaces:
 
 ---
 
+## 🖼 Poster
+
+![OWE-YOR Poster](https://drive.google.com/uc?id=1ll9bxDTLmp9ZgXZTFo0JVPvXOGi4TO6a)
+
+
 ## 🔮 Future Work
 
 - Expand to other African languages. 
@@ -97,10 +102,6 @@ Try the web app live on Hugging Face Spaces:
 
 ---
 
-## 📜 License
 
-MIT License. See [LICENSE](LICENSE) for details.
-
----
 
 
