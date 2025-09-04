@@ -74,3 +74,45 @@ cd OWE-YOR
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
+
+
+🌐 Demo
+
+Try the web app live on Hugging Face Spaces:
+
+🎯 OWE-YOR: Yoruba Proverb Classifier
+
+📊 Results
+
+High accuracy in classifying Yoruba proverbs vs. non-proverbs
+
+Transformers outperform traditional ML in low-resource languages
+
+Confusion matrix and metrics available in results/ folder
+
+🔮 Future Work
+
+Expand to other African languages 🌍
+
+Integrate into culturally-aware conversational AI systems 💬
+
+Explore tone-aware models for tonal languages like Yoruba 🎵
+
+👥 Team
+
+Olusanya Joy – GitHub
+
+Your Partner's Name – GitHub
+
+📜 License
+
+MIT License. See LICENSE
+ for details.
+
+🙏 Acknowledgements
+
+Kwame AI and FriendnPal for resources
+
+Hugging Face for pretrained models (AfroLM, mBERT)
+
+Open Speech and Language Resources (OSLR) for dataset support
