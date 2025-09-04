@@ -92,7 +92,7 @@ Try the web app live on Hugging Face Spaces:
 
 ## 👥 Team
 
-- **Olusanya Joy** – [GitHub](https://github.com/Joycenaomi81)
+- **Olusanya Joy** – [GitHub](https://github.com/joynaomi81)
 - **Your Partner's Name** – [GitHub](https://github.com/partner-username)
 
 ---
